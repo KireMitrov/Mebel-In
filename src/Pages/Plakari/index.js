@@ -32,7 +32,7 @@ function Plakari(){
             {fadeImages.map((fadeImage, index) => (
               <div className="each-fade" key={index}>
                 <div className="image-container">
-                  <img src={`images/${fadeImage.url}`} />
+                  <img src={`images/plakari/${fadeImage.url}`} />
                   <p>{fadeImage.description}</p>
                 </div>
               </div>
