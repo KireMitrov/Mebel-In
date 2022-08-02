@@ -11,6 +11,10 @@ body {
   align-items: center;
   flex-direction: column;
 }
+.header-logo{
+  display: flex;
+  flex-direction: row;
+}
 
 .header img{
   height: 80px;
@@ -62,4 +66,17 @@ body {
   text-align: center;
   background-color: #131313;
   padding: 0.4em;
+}
+
+.footer-contact{
+  display: flex;
+  justify-content: space-around;
+}
+.footer-contact  a {
+  text-decoration: none;
+  color:white;
+}
+
+.footer-contact a:hover{
+  font-size: 1.2em ;
 }
