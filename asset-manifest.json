@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Mebel-In/static/css/main.da1537cc.css",
+    "main.js": "/Mebel-In/static/js/main.953c16e1.js",
+    "static/js/787.f5979f42.chunk.js": "/Mebel-In/static/js/787.f5979f42.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Mebel-In/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Mebel-In/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Mebel-In/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Mebel-In/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Mebel-In/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.jpg": "/Mebel-In/static/media/logo.0369660af47dd8a040fe.jpg",
+    "index.html": "/Mebel-In/index.html",
+    "main.da1537cc.css.map": "/Mebel-In/static/css/main.da1537cc.css.map",
+    "main.953c16e1.js.map": "/Mebel-In/static/js/main.953c16e1.js.map",
+    "787.f5979f42.chunk.js.map": "/Mebel-In/static/js/787.f5979f42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da1537cc.css",
+    "static/js/main.953c16e1.js"
+  ]
+}
