@@ -3,6 +3,7 @@ import './App.css';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import NavBar from './components/NavBar/NavBar';
+import Admin from './Pages/Admin/Admin';
 import Kujni from './Pages/Kujni';
 import MainPage from './Pages/Main';
 import Plakari from './Pages/Plakari';
@@ -18,6 +19,7 @@ function App() {
         <Route path='plakari' element={<Plakari></Plakari>}></Route>
         <Route path='kujni' element={<Kujni></Kujni>}></Route>
         <Route path='tv-komodi' element={<TvKomodi></TvKomodi>}></Route>
+        <Route path='admin' element={<Admin></Admin>}></Route>
       </Routes>
       <Footer></Footer>
     </div>
