@@ -10,8 +10,8 @@ function Admin() {
     const presmetkaElementi = () => (
         <div>
             <p> stranicni daski: {visina} x  {dlabocina} x 2</p>
-             <p>dolna daska: {sirina - 3} x {dlabocina} x 1</p>
-             <p>gorni daski: {sirina - 3} x 100 x 2</p>
+             <p>dolna daska: {sirina - 32} x {dlabocina} x 1</p>
+             <p>gorni daski: {sirina - 32} x 100 x 2</p>
              <p>vraticki: {(sirina / 2 ) -3} x {(visina / 2) - 3} x 2</p>
         </div>
     )

@@ -16,6 +16,9 @@ function NavBar() {
         <Link className="navbar-link" to='tv-komodi'>
             <p>TV Komodi</p>
         </Link>
+        <Link className="navbar-link" to='admin'>
+            <p>Admin</p>
+        </Link>
     </div>
 }
 
