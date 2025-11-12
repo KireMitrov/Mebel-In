@@ -28,7 +28,7 @@ function Plakari(){
       ];
     return(
         <div className="slide-container">
-          <Fade>
+          {/* <Fade>
             {fadeImages.map((fadeImage, index) => (
               <div className="each-fade" key={index}>
                 <div className="image-container">
@@ -37,7 +37,7 @@ function Plakari(){
                 </div>
               </div>
             ))}
-          </Fade>
+          </Fade> */}
         </div>
       )
 }

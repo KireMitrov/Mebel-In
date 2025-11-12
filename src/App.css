@@ -39,7 +39,9 @@ body {
 }
 
 .navbar-link:hover{
-  font-size: 1.1em;
+  scale: 1.5;
+  transition-duration: 1s;
+  color:#131313;
 }
 
 .main{

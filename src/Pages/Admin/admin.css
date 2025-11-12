@@ -1,0 +1,26 @@
+.admin-main {
+    width: 80%;
+    margin: auto;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center;
+    margin: 8px;
+}
+.inputs label {
+    width: 30%;
+    justify-content: center;
+}
+.inputs input {
+    width: 50px;
+}
+
+.admin-main button {
+    margin: auto;
+    display: block;
+    padding: 8px;
+    border-radius: 10px;
+}
